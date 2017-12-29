@@ -4,7 +4,23 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+to run ng server
+
+cd jkAg/kitchen
+
+ng serve --host 0.0.0.0 --port 8080 
+
+or try
+
+ng serve --host 0.0.0.0 --port 8080 --live-reload-port 8081
+
+
+Navigate to ` http://0.0.0.0:8080`. The app will automatically reload if you change any of the source files.
+
+to run RESTful Web Service
+
+npm run json
+
 
 ## Code scaffolding
 
