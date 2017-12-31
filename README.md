@@ -8,7 +8,7 @@ to run ng server
 
 cd jkAg/kitchen
 
-ng serve --host 0.0.0.0 --port 8080 
+ng serve --host 0.0.0.0 --port 8080
 
 or try
 
