@@ -11,7 +11,7 @@ COPY deploy-package.json /usr/src/mystore/package.json
 
 WORKDIR /usr/src/mystore
 
-RUN npm install
+ RUN npm install
 
 EXPOSE 8080
 EXPOSE 8081
